@@ -14,8 +14,8 @@ except Exception as e:
     pass
 
 
-downloaded_dir = "D:/1/packages"
-output_dir = "D:/1/packages1"
+downloaded_dir = "./downloaded"
+output_dir = "./packages"
 
 new_list = {}
 for (dirpath, dirnames, filenames) in os.walk(downloaded_dir):
