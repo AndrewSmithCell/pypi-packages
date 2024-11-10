@@ -1,0 +1,14 @@
+uwsgi
+jsonpickle
+orjson
+transitions
+arrow
+bcrypt
+rsa
+uvloop
+kivy
+elasticsearch
+elasticsearch-dsl
+pymongo
+cpython
+statsmodels
