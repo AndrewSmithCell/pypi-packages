@@ -14,14 +14,13 @@ except Exception as e:
     pass
 
 
-downloaded_dir = "./downloaded"
-output_dir = "./packages"
+downloaded_dir = "D:/1/packages"
+output_dir = "D:/1/packages1"
 
 new_list = {}
 for (dirpath, dirnames, filenames) in os.walk(downloaded_dir):
     for f in filenames:
-        relpath = os.path.relpath(dirpath, downloaded_dir)
-        g = os.path.join(relpath, f)
+        g = f
         sz = os.path.getsize(os.path.join(downloaded_dir, g))
         print(g, sz)
         if not (g in original_list) or (str(original_list[g]) != str(sz)):
