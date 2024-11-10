@@ -1,6 +1,7 @@
 mkdir -p downloaded
 cd downloaded
 pip download -r ../requirements/requirements1.txt
+cd ..
 python pypi-registry.py
 git config user.name github-actions
 git config user.email github-actions@github.com
