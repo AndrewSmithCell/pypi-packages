@@ -5,7 +5,7 @@ on:
       tags:
         description: 'tags to create build'
 jobs:
-  build:
+  build-windows:
     runs-on: windows-latest
     permissions: write-all
     steps:
@@ -20,10 +20,33 @@ jobs:
       run: |
         ./install.sh
         date=$(date '+%Y%m%d%H%M%S')
-        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-$date.z packages
+        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-windows-$date.z packages
     - name: create release and upload assets
       uses: softprops/action-gh-release@v2
       with:
         files: |
           requirements*
+        tag_name: ${{ github.event.inputs.tags }}
+  build-ubuntu:
+    needs: build-windows
+    runs-on: ubuntu-22.04
+    permissions: write-all
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: main
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'         
+    - name: Run
+      shell: bash
+      run: |
+        ./install.sh
+        date=$(date '+%Y%m%d%H%M%S')
+        7z a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-ubuntu-$date.z packages
+    - name: create release and upload assets
+      uses: softprops/action-gh-release@v2
+      with:
+        files: |
+          requirements-*
         tag_name: ${{ github.event.inputs.tags }}
