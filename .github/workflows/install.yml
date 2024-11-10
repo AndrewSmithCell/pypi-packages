@@ -25,7 +25,7 @@ jobs:
       uses: softprops/action-gh-release@v2
       with:
         files: |
-          requirements*
+          requirements-*
         tag_name: ${{ github.event.inputs.tags }}
   build-ubuntu:
     needs: build-windows
