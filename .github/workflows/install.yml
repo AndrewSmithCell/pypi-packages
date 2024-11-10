@@ -39,9 +39,8 @@ jobs:
       with:
         python-version: '3.12'         
     - name: Run
-      shell: bash
       run: |
-        ./install.sh
+        bash ./install.sh
         date=$(date '+%Y%m%d%H%M%S')
         7z a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-ubuntu-$date.z packages
     - name: create release and upload assets
