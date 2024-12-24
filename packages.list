@@ -798,3 +798,7 @@ rich-13.9.4-py3-none-any.whl 242424
 twine-6.0.1-py3-none-any.whl 39398
 urllib3-2.3.0-py3-none-any.whl 128369
 zipp-3.21.0-py3-none-any.whl 9630
+SecretStorage-3.3.3-py3-none-any.whl 15221
+jeepney-0.8.0-py3-none-any.whl 48435
+nh3-0.2.20-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 744388
+cryptography-44.0.0-cp39-abi3-manylinux_2_28_x86_64.whl 4155160
