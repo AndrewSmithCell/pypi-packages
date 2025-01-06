@@ -862,3 +862,4 @@ mysqlclient-2.2.6.tar.gz 91055
 rcssmin-1.1.2-cp312-cp312-manylinux1_x86_64.whl 48245
 cbor2-5.6.5-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 270004
 fonttools-4.55.3-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 4865624
+latex2mathml-3.77.0-py3-none-any.whl 73722
