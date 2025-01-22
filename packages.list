@@ -990,3 +990,13 @@ tzdata-2025.1-py2.py3-none-any.whl 346762
 Unidecode-0.04.21-py2.py3-none-any.whl 228285
 widgetsnbextension-4.0.13-py3-none-any.whl 2335872
 xyzservices-2025.1.0-py3-none-any.whl 88368
+fonttools-4.55.4-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 4877282
+scipy-1.15.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 40249869
+pyproj-3.7.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 9525831
+numpy-2.2.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 16099146
+soundfile-0.13.0-py2.py3-none-manylinux_2_28_x86_64.whl 1313600
+protobuf-5.29.3-cp38-abi3-manylinux2014_x86_64.whl 319672
+pyarrow-19.0.0-cp312-cp312-manylinux_2_28_x86_64.whl 42084973
+shapely-2.0.6-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 2524835
+Cartopy-0.24.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 11715215
+tornado-6.4.2-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 437173
