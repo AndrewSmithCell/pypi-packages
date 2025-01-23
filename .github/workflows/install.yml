@@ -20,7 +20,7 @@ jobs:
       run: |
         ./install.sh
         date=$(date '+%Y%m%d%H%M%S')
-        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-windows-$date.z packages
+        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v40m requirements-windows-$date.z packages
     - name: create release and upload assets
       uses: softprops/action-gh-release@v2
       with:
@@ -42,7 +42,7 @@ jobs:
       run: |
         bash ./install.sh
         date=$(date '+%Y%m%d%H%M%S')
-        7z a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v100m requirements-ubuntu-$date.z packages
+        7z a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v40m requirements-ubuntu-$date.z packages
     - name: create release and upload assets
       uses: softprops/action-gh-release@v2
       with:
