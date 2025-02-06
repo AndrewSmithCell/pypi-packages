@@ -1283,3 +1283,6 @@ websockets-14.2-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_1
 numpy-1.26.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 17950613
 soxr-0.5.0.post1-cp312-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 248455
 spacy-3.7.5-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 6455942
+torch-2.3.1+cu121-cp310-cp310-win_amd64.whl 2423503526
+torchaudio-2.3.1+cu121-cp310-cp310-win_amd64.whl 4062356
+torchvision-0.18.1+cu121-cp310-cp310-win_amd64.whl 5678698
