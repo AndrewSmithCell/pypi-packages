@@ -1286,3 +1286,8 @@ spacy-3.7.5-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 6455942
 torch-2.3.1+cu121-cp310-cp310-win_amd64.whl 2423503526
 torchaudio-2.3.1+cu121-cp310-cp310-win_amd64.whl 4062356
 torchvision-0.18.1+cu121-cp310-cp310-win_amd64.whl 5678698
+beautifulsoup4-4.13.3-py3-none-any.whl 186015
+mkdocs-1.5.3-py3-none-any.whl 3694750
+mkdocs_glightbox-0.4.0-py3-none-any.whl 31154
+pymdown_extensions-10.3.1-py3-none-any.whl 241048
+python_markdown_document_offsets_injection_extension-0.5.12-py3-none-any.whl 4513
