@@ -1528,3 +1528,5 @@ websockets-14.2-cp312-cp312-win_amd64.whl 164421
 wrapt-1.17.2-cp312-cp312-win_amd64.whl 38865
 xxhash-3.5.0-cp312-cp312-win_amd64.whl 30040
 yarl-1.18.3-cp312-cp312-win_amd64.whl 90399
+cryptography-44.0.1-cp39-abi3-manylinux_2_34_x86_64.whl 4189713
+primp-0.12.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 3258669
