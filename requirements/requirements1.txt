@@ -1,1 +1,2 @@
-open-webui
+jinja2
+pybind11
