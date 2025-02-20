@@ -1538,3 +1538,4 @@ sacremoses-0.0.53.tar.gz 880628
 stanza-1.1.1-py3-none-any.whl 227644
 translatehtml-1.5.2-py3-none-any.whl 3289
 numpy-2.2.3-cp312-cp312-win_amd64.whl 12626357
+numpy-2.2.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 16116679
