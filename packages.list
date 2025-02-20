@@ -1531,3 +1531,9 @@ yarl-1.18.3-cp312-cp312-win_amd64.whl 90399
 cryptography-44.0.1-cp39-abi3-manylinux_2_34_x86_64.whl 4189713
 primp-0.12.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 3258669
 pybind11-2.13.6-py3-none-any.whl 243282
+argostranslate-1.9.6-py3-none-any.whl 34360
+beautifulsoup4-4.9.3-py3-none-any.whl 115807
+numpy-2.2.3-cp310-cp310-win_amd64.whl 12925667
+sacremoses-0.0.53.tar.gz 880628
+stanza-1.1.1-py3-none-any.whl 227644
+translatehtml-1.5.2-py3-none-any.whl 3289
