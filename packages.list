@@ -1610,3 +1610,15 @@ setuptools-75.8.2-py3-none-any.whl 1229385
 tiktoken-0.5.2-cp312-cp312-win_amd64.whl 785766
 torchvision-0.21.0-cp312-cp312-win_amd64.whl 1560520
 websockets-11.0.3-py3-none-any.whl 118056
+tiktoken-0.5.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1991790
+aiohttp-3.11.13-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1692233
+bitarray-3.1.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 294630
+propcache-0.3.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 243912
+cytoolz-1.0.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 2125270
+matplotlib-3.10.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 8597111
+safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 471642
+ckzg-1.0.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 140481
+rpds_py-0.23.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 391611
+psutil-7.0.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 277986
+pycryptodome-3.21.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 2254555
+torchvision-0.21.0-cp312-cp312-manylinux1_x86_64.whl 7238673
