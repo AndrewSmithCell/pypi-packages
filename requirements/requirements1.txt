@@ -1,8 +1,2 @@
-fastapi
-uvicorn
-loguru
-piper-tts
-coqui-tts[languages]
-langdetect
-pyyaml
-
+magic-pdf[full]
+--extra-index-url https://wheels.myhloli.com
