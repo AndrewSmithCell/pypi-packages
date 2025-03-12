@@ -1744,3 +1744,14 @@ srsly-2.5.1-cp312-cp312-win_amd64.whl 632598
 SudachiPy-0.6.10-cp312-cp312-win_amd64.whl 1379214
 thinc-8.2.5-cp312-cp312-win_amd64.whl 1447893
 torchaudio-2.6.0-cp312-cp312-win_amd64.whl 2449191
+scipy-1.15.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 37297371
+fugashi-1.4.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 697548
+Cython-3.0.12-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 3517692
+python_crfsuite-0.9.11-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1254759
+SudachiPy-0.6.10-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1731213
+monotonic_alignment_search-0.1.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 602749
+torchaudio-2.6.0-cp312-cp312-manylinux1_x86_64.whl 3379510
+mojimoji-0.0.13-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 211246
+protobuf-6.30.0-cp39-abi3-manylinux2014_x86_64.whl 316203
+mecab_python3-1.0.10-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 591165
+grpcio-1.71.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 5910666
