@@ -1,2 +1,1 @@
-magic-pdf[full]
---extra-index-url https://wheels.myhloli.com
+libretranslate
