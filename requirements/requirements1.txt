@@ -1,1 +1,1 @@
-libretranslate
+streamlit
