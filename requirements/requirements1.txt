@@ -1,1 +1,12 @@
 streamlit
+django
+djangorestframework
+django-hijack
+django-import-export
+django-impersonate
+django-related-admin
+django-material-admin
+dj-rest-auth
+djoser
+channels[daphne]
+django-extensions
