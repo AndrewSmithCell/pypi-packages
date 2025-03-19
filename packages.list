@@ -1853,3 +1853,6 @@ zope.interface-7.2-cp310-cp310-win_amd64.whl 211947
 numpy-2.2.4-cp312-cp312-win_amd64.whl 12644305
 pyarrow-19.0.1-cp312-cp312-win_amd64.whl 25250108
 zope.interface-7.2-cp312-cp312-win_amd64.whl 212466
+zope.interface-7.2-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 264702
+pyarrow-19.0.1-cp312-cp312-manylinux_2_28_x86_64.whl 42087026
+numpy-2.2.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 16134051
