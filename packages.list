@@ -1850,3 +1850,6 @@ tablib-3.8.0-py3-none-any.whl 47935
 twisted-24.11.0-py3-none-any.whl 3188667
 txaio-23.1.1-py2.py3-none-any.whl 30512
 zope.interface-7.2-cp310-cp310-win_amd64.whl 211947
+numpy-2.2.4-cp312-cp312-win_amd64.whl 12644305
+pyarrow-19.0.1-cp312-cp312-win_amd64.whl 25250108
+zope.interface-7.2-cp312-cp312-win_amd64.whl 212466
