@@ -1919,3 +1919,16 @@ safetensors-0.4.2-cp312-none-win_amd64.whl 270711
 scikit_image-0.21.0.tar.gz 22720419
 tokenizers-0.20.3-cp312-none-win_amd64.whl 2380725
 websockets-12.0-cp312-cp312-win_amd64.whl 124985
+pydantic_core-2.20.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 2099064
+safetensors-0.4.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1263989
+numpy-1.26.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 17938212
+multidict-6.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 132861
+tokenizers-0.20.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 2997679
+psutil-5.9.5-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 282082
+pywavelets-1.8.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 4447650
+Pillow-9.5.0.tar.gz 50488147
+pillow_avif_plugin-1.4.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 8043234
+aiohttp-3.11.14-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 1692006
+websockets-12.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl 131176
+ruff-0.11.2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 11327861
+orjson-3.10.16-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 133136
