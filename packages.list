@@ -1962,3 +1962,5 @@ gguf-0.14.0-py3-none-any.whl 76159
 bitsandbytes-0.45.4-py3-none-win_amd64.whl 75430140
 fsspec-2025.3.1-py3-none-any.whl 194444
 xformers-0.0.27-cp310-cp310-win_amd64.whl 152083288
+torch-2.3.1-cp312-cp312-win_amd64.whl 159727172
+xformers-0.0.27-cp312-cp312-win_amd64.whl 152085972
