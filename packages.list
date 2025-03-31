@@ -1959,3 +1959,6 @@ typing_extensions-4.13.0-py3-none-any.whl 45683
 w3lib-2.3.1-py3-none-any.whl 21751
 webdriver_manager-4.0.2-py2.py3-none-any.whl 27778
 gguf-0.14.0-py3-none-any.whl 76159
+bitsandbytes-0.45.4-py3-none-win_amd64.whl 75430140
+fsspec-2025.3.1-py3-none-any.whl 194444
+xformers-0.0.27-cp310-cp310-win_amd64.whl 152083288
