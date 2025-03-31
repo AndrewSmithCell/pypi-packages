@@ -1964,3 +1964,7 @@ fsspec-2025.3.1-py3-none-any.whl 194444
 xformers-0.0.27-cp310-cp310-win_amd64.whl 152083288
 torch-2.3.1-cp312-cp312-win_amd64.whl 159727172
 xformers-0.0.27-cp312-cp312-win_amd64.whl 152085972
+bitsandbytes-0.45.4-py3-none-manylinux_2_24_x86_64.whl 76049223
+xformers-0.0.27-cp312-cp312-manylinux2014_x86_64.whl 164157765
+torch-2.3.1-cp312-cp312-manylinux1_x86_64.whl 779079866
+nvidia_nccl_cu12-2.20.5-py3-none-manylinux2014_x86_64.whl 176249402
