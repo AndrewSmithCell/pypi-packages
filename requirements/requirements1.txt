@@ -1,5 +1,4 @@
 halmos
-open-webui
 sphinx_gallery
 sphinxcontrib-svg2pdfconverter
 mpl_sphinx_theme
