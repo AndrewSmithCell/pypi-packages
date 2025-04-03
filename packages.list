@@ -2092,3 +2092,10 @@ zstandard-0.23.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 5436
 milvus_lite-2.4.12-py3-none-manylinux2014_x86_64.whl 45182549
 playwright-1.49.1-py3-none-manylinux1_x86_64.whl 44163300
 SQLAlchemy-2.0.38-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl 3255581
+halmos-0.1.13-py3-none-any.whl 78686
+pywin32-310-cp310-cp310-win_amd64.whl 9601854
+pyzmq-26.3.0-cp310-cp310-win_amd64.whl 647229
+rpds_py-0.24.0-cp310-cp310-win_amd64.whl 234622
+sqlalchemy-2.0.40-cp310-cp310-win_amd64.whl 2109421
+websockets-15.0.1-cp310-cp310-win_amd64.whl 176830
+z3_solver-4.14.1.0-py3-none-win_amd64.whl 16410603
