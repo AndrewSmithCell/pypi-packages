@@ -1,6 +1,5 @@
 mcp-server-fetch
 mcp[cli]
-open-webui
 qwen-agent[gui,rag,code_interpreter,mcp]
 gui-agents
 fastmcp
